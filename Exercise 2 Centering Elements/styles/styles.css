@@ -1,0 +1,17 @@
+.container{
+    background-color: white;
+    margin: auto;
+    width: 50%;
+    border: 3px solid rgb(0, 225, 255);
+    padding: 40px;
+    text-align: center;
+    display: grid;
+    grid-template-columns: 1
+    10fr 20fr 10fr; 
+    grid-gap: 100px; 
+
+}
+h1{
+    color: rgb(255, 0, 157);
+    text-shadow: 2px 2px black
+}
